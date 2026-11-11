@@ -1,4 +1,4 @@
-# Hyper-Think
+# Hyper-Think Skill
 
 **A high-performance cognitive reasoning and systematic invention protocol for LLMs and AI coding agents.**
 
